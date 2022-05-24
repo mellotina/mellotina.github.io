@@ -1,12 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to Tian ZHANG's personal page
 
 You can use the [editor on GitHub](https://github.com/mellotina/mellotina.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### About me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am a PhD student of Industrail engineering.
+
+My speciaties are: Reliability, Reconfigurable manufacturing system, Time series analysis, Python, Latex, C++, Eviews.
+
+Beside, I do watercolor painting and diving as well.
+
+Language level: Chinese(Motherlanguage), English (fluent), French(Beginner).
 
 ```markdown
 Syntax highlighted code block
